@@ -10,8 +10,8 @@ Welcome to my internship project repository! This repository showcases the data 
 This project focuses on classifying Iris flower species using the DecisionTreeClassifier algorithm. The Iris dataset is a classic benchmark in machine learning and consists of measurements of sepals and petals of three different species of Iris flowers.
 
 #### Contents
-- **Jupyter Notebook:** [iris_classification.ipynb](iris_classification.ipynb)
-- **Dataset:** [Iris Flower - Iris](data/iris.csv)
+- **Jupyter Notebook:** [Iris_Flower_Classification](Iris_Flower_Classification.ipynb)
+- **Dataset:** [Iris Flower - Iris](data/Iris Flower - Iris.csv)
 
 #### Usage
 1. Open the Jupyter Notebook `iris_classification.ipynb`.
@@ -24,8 +24,8 @@ This project focuses on classifying Iris flower species using the DecisionTreeCl
 This project focuses on detecting spam emails using the Support Vector Classifier (SVC) algorithm.
 
 #### Contents
-- **Jupyter Notebook:** [spam_detection.ipynb](spam_detection.ipynb)
-- **Dataset:** [Spam Email Detection - spam](data/spam_emails.csv)
+- **Jupyter Notebook:** [Spam_Email_Detection_Using_ML](Spam_Email_Detection_Using_ML.ipynb)
+- **Dataset:** [Spam Email Detection - spam](data/Spam Email Detection - spam.csv)
 
 #### Usage
 1. Open the Jupyter Notebook `spam_detection.ipynb`.
