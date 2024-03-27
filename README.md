@@ -11,7 +11,7 @@ This project focuses on classifying Iris flower species using the DecisionTreeCl
 
 #### Contents
 - **Jupyter Notebook:** [Iris_Flower_Classification](Iris_Flower_Classification.ipynb)
-- **Dataset:** [Iris Flower - Iris](data/Iris Flower - Iris.csv)
+- **Dataset:** [Iris Flower - Iris](data/Iris%20Flower%20-%20Iris.csv)
 
 #### Usage
 1. Open the Jupyter Notebook `iris_classification.ipynb`.
@@ -25,7 +25,7 @@ This project focuses on detecting spam emails using the Support Vector Classifie
 
 #### Contents
 - **Jupyter Notebook:** [Spam_Email_Detection_Using_ML](Spam_Email_Detection_Using_ML.ipynb)
-- **Dataset:** [Spam Email Detection - spam](data/Spam Email Detection - spam.csv)
+- **Dataset:** [Spam Email Detection - spam](data/Spam%20Email%20Detection%20-%20spam.csv)
 
 #### Usage
 1. Open the Jupyter Notebook `spam_detection.ipynb`.
